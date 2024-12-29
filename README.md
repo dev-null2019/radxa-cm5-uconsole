@@ -20,7 +20,7 @@ What does maybe work:</br>
 -Audio (mono only)</br>
 </br>
 </br>
-Currently you need to flash the "Radxa CM5 Lite on RPI CM4 IO Image" (https://github.com/radxa-build/radxa-cm5-rpi-cm4-io/releases/download/rsdk-b3/radxa-cm5-rpi-cm4-io_bookworm_cli_b3.output.img.xz) and put the CM5 into a Rpi CM4 IO board. 
+Currently you need to flash the "Radxa CM5 Lite on RPI CM4 IO Image" (https://github.com/radxa-build/radxa-cm5-rpi-cm4-io/releases/download/rsdk-b3/radxa-cm5-rpi-cm4-io_bookworm_cli_b3.output.img.xz) on a microSD and put the CM5 into a Rpi CM4 IO board. 
 </br></br>
 Boot it up, install my kernel and apply the devicetree overlays with rsetup. Then put the CM5 back into your uConsole.
 </br></br>
